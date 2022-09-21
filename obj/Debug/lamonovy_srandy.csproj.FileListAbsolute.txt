@@ -1,0 +1,7 @@
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\obj\Debug\lamonovy_srandy.csprojAssemblyReference.cache
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\obj\Debug\lamonovy_srandy.csproj.CoreCompileInputs.cache
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\bin\Debug\lamonovy_srandy.exe.config
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\bin\Debug\lamonovy_srandy.exe
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\bin\Debug\lamonovy_srandy.pdb
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\obj\Debug\lamonovy_srandy.exe
+C:\Users\kurka.on.2022\source\repos\lamonovy_srandy\lamonovy_srandy\obj\Debug\lamonovy_srandy.pdb
